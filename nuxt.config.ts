@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   extends: '@nuxt-themes/docus',
   devtools: { enabled: true },
   css: [
-    '@/assets/css/main.scss',
+    '@/assets/css/main.css',
   ],
   modules: [
     // Remove it if you don't use Plausible analytics
